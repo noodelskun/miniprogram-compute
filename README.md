@@ -1,2 +1,2 @@
-# miniprogram-compute
-小程序页面扩展compute属性
+# miniprogram-computed
+小程序页面扩展computed属性
